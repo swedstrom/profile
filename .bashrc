@@ -18,7 +18,7 @@ fi
 #  The problem is that different types of terminals give
 #+ different answers to 'who am i' (rxvt in particular can be
 #+ troublesome) - however this code seems to work in a majority
-#+ of cases.
+#+ of cases..
 #--------------------------------------------------------------
 
 function get_xserver ()
