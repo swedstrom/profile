@@ -59,7 +59,7 @@
 '8  1  0  ~/monitoring_scripts/domain_registration_check/checklive.ksh
 '9  6  93  /tmp/crontab.92Beos/crontab
 
-# Jumplist (newest first):
+# Jumplist (newest first)::
 -'  41  22  ~/junk/sample.py
 -'  1  0  ~/junk/sample.py
 -'  17  0  ~/junk/sample.py
